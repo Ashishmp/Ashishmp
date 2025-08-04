@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/aranjan90/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Ranjan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:ashishranjan.cse@gmail.com">
+  <a href="mailto:ashishranjanmp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ashishranjan.cse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ashishmp">
