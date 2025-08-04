@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Ranjan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:ashishranjanmp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ashishranjan.cse@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-ashishranjanmp@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Ashishmp">
     <img src="https://img.shields.io/github/followers/Ashishmp?style=social" />
