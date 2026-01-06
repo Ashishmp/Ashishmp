@@ -42,26 +42,10 @@ A complete **role-based PG listing platform** with user, PG owner & admin module
 
 - Tech Stack: `Java`, `Spring Boot`, `MySQL`, `JWT`, `Swagger`, `JPA`
 - Features: PGs, Rooms, Bookings, Reviews, Auth, Role-based access
-- Deployed using Docker & Helm
+
 
 ---
 
-### 🔹 [FastAPI Product Store 🛒](https://github.com/Ashishmp/fastapi-product-store)
-A RESTful product & order management backend built with FastAPI & MongoDB
-
-- Tech Stack: `FastAPI`, `MongoDB`, `Pydantic`, `Render`
-- Features: Product listing, filtering, orders by user
-- Fully deployed and production-ready
-
----
-
-### 🔹 [Expense Tracker 💰](https://github.com/Ashishmp/Expense-Tracker)
-A responsive React-based UI to track expenses and visualize spending
-
-- Tech Stack: `React`, `Chart.js`, `Material UI`
-- Features: Charts, expense cards, and budget inputs
-
----
 
 ## 🧰 Skills & Technologies
 
