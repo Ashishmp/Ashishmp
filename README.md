@@ -29,7 +29,7 @@ Software Engineer | Java | Spring Boot | Big Data | Cloud | DevOps
 
 ## 🏢 Experience
 
-### 🔹 Nokia — Software Engineering Intern (7 Months)
+### 🔹 [Nokia](https://www.nokia.com/) — Software Engineering Intern (7 Months)
 
 Worked on **enterprise-scale microservices and AI-driven platforms**, contributing across backend, data, and deployment layers.
 
