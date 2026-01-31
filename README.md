@@ -78,7 +78,7 @@ A **production-ready, role-based PG (Paying Guest) accommodation backend system*
 
 **Tech Stack:**  
 `Java 17` · `Spring Boot` · `Spring Security` · `JWT` · `JPA / Hibernate` ·  
-`MySQL` · `Swagger` · `Maven` · `Docker` · `GitHub Actions`
+`PostgreSQL` · `Swagger` · `Maven` · `Docker` · `GitHub Actions`
 
 ---
 
